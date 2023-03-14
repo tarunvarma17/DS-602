@@ -1,0 +1,5 @@
+hw:
+marks:100
+
+labs:
+marks: 100
